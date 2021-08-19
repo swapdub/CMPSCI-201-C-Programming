@@ -1,0 +1,3 @@
+How do I use the data in array from the called function to the main function?
+
+How do I use certain variables from the file across different functions?
